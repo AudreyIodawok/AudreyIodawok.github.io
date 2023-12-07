@@ -1,0 +1,32 @@
+h1{
+font-size: 30px;
+text-align: center;
+font-family:Arial, Helvetica, sans-serif;
+color: #dd4742
+}
+
+h2{
+font-size: 20px;
+text-align: left;
+font-family:Arial, Helvetica, sans-serif;
+color: #070707
+}
+    
+p{
+font-size: 15px;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+color: #070707
+}
+
+.figure{
+text-align : center;
+}
+
+a{
+color:#2725b6
+}
+    
+body {
+background-color: #ffffff;
+}
